@@ -7,14 +7,14 @@ export const perguntas = [
                 afirmacao: [
                     "Na verdade, o papel da dispersão é mais comum em outros animais, como aves e mamíferos."
                 ],
-                proxima: 1,  // Direciona para a pergunta 2
+                proxima: 1,  
             },
             {
                 texto: "Polinizar plantas",
                 afirmacao: [
                     "A polinização é essencial para a produção de frutos e sementes, mantendo a biodiversidade."
                 ],
-                proxima: 1,  // Direciona para a pergunta 2
+                proxima: 1,  
             },
         ]
     },
@@ -26,15 +26,14 @@ export const perguntas = [
                 afirmacao: [
                    "As formigas vivem em colônias organizadas com papéis definidos, como operárias, soldados e rainhas.",
                 ],
-                proxima: 2,  // Direciona para a pergunta 3
+                proxima: 2, 
             },
             {
                 texto: "Grilo",
                 afirmacao: [
                     "Os grilos são insetos solitários, não vivendo em colônias organizadas como as formigas ou abelhas."
                 ],
-                proxima: 2,  // Direciona para a pergunta 3
-            },
+                proxima: 2,  
         ]
     },
     {
@@ -45,15 +44,14 @@ export const perguntas = [
                 afirmacao: [
                     " As borboletas passam por uma metamorfose completa, incluindo estágios de ovo, lagarta, pupa (crisálida) e adulto.",
                 ],
-                proxima: 3,  // Direciona para a pergunta 4
+                proxima: 3,  
             },
             {
                 texto: "Barata",
                 afirmacao: [
                     "As baratas passam por metamorfose incompleta, sem o estágio de pupa.",
                 ],
-                proxima: 3,  // Direciona para a pergunta 4
-            },
+                proxima: 3,  
         ]
     },
     {
@@ -64,14 +62,14 @@ export const perguntas = [
                 afirmacao: [
                     "As libélulas são extremamente rápidas, alcançando até 56 km/h em voo.",
                 ],
-                proxima: 4,  // Direciona para a pergunta 5
+                proxima: 4,  
             },
             {
                 texto: "Abelha",
                 afirmacao: [
                     "As abelhas são rápidas, mas não tanto quanto as libélulas. Elas voam a cerca de 24 km/h quando estão em busca de néctar.",
                 ],
-                proxima: 4,  // Direciona para a pergunta 5
+                proxima: 4,  
             },
         ]
     },
